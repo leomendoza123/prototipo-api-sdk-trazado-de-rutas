@@ -1,0 +1,131 @@
+16-Sep-2016 15:56:25.692 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+16-Sep-2016 15:56:25.692 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+16-Sep-2016 15:56:25.715 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/mycontext'
+16-Sep-2016 15:57:25.711 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/mycontext'
+16-Sep-2016 16:03:30.162 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/mycontext'
+16-Sep-2016 16:07:31.117 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/mycontext'
+16-Sep-2016 16:11:59.113 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/mycontext'
+16-Sep-2016 16:12:57.386 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/mycontext'
+16-Sep-2016 16:15:31.611 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/mycontext'
+16-Sep-2016 16:17:04.547 INFO [http-nio-8080-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/mycontext'
+16-Sep-2016 16:19:41.206 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 16:19:49.961 INFO [http-nio-8080-exec-10] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/mycontext'
+16-Sep-2016 16:19:49.968 INFO [http-nio-8080-exec-10] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/mycontext.war
+16-Sep-2016 16:40:52.071 INFO [http-nio-8080-exec-11] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 16:40:55.479 INFO [http-nio-8080-exec-16] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/mycontext'
+16-Sep-2016 16:40:55.479 INFO [http-nio-8080-exec-16] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/mycontext.war
+16-Sep-2016 16:42:10.605 INFO [http-nio-8080-exec-21] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 16:42:20.619 INFO [http-nio-8080-exec-23] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/mycontext'
+16-Sep-2016 16:42:20.619 INFO [http-nio-8080-exec-23] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/mycontext.war
+16-Sep-2016 16:43:42.094 INFO [http-nio-8080-exec-30] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 16:43:44.995 INFO [http-nio-8080-exec-27] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/mycontext'
+16-Sep-2016 16:43:44.995 INFO [http-nio-8080-exec-27] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/mycontext.war
+16-Sep-2016 16:44:39.298 INFO [http-nio-8080-exec-29] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 16:44:42.294 INFO [http-nio-8080-exec-35] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/mycontext'
+16-Sep-2016 16:44:42.294 INFO [http-nio-8080-exec-35] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/mycontext.war
+16-Sep-2016 16:53:41.817 INFO [http-nio-8080-exec-38] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 16:53:54.492 INFO [http-nio-8080-exec-45] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/mycontext'
+16-Sep-2016 16:53:54.492 INFO [http-nio-8080-exec-45] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/mycontext.war
+16-Sep-2016 17:07:27.853 INFO [http-nio-8080-exec-48] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 17:07:31.651 INFO [http-nio-8080-exec-57] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/mycontext'
+16-Sep-2016 17:07:31.651 INFO [http-nio-8080-exec-57] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/mycontext.war
+16-Sep-2016 17:22:12.078 INFO [http-nio-8080-exec-64] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 17:25:26.254 INFO [http-nio-8080-exec-68] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 17:26:18.638 INFO [http-nio-8080-exec-70] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/mycontext'
+16-Sep-2016 17:26:18.641 INFO [http-nio-8080-exec-70] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/mycontext.war
+16-Sep-2016 17:32:40.537 INFO [http-nio-8080-exec-73] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 17:34:49.249 INFO [http-nio-8080-exec-79] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 17:36:53.927 INFO [http-nio-8080-exec-81] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 17:43:45.925 INFO [http-nio-8080-exec-79] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 17:45:21.736 INFO [http-nio-8080-exec-83] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 17:45:51.066 INFO [http-nio-8080-exec-81] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/mycontext'
+16-Sep-2016 17:45:51.068 INFO [http-nio-8080-exec-81] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/mycontext.war
+16-Sep-2016 17:46:33.224 INFO [http-nio-8080-exec-79] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 17:47:57.733 INFO [http-nio-8080-exec-89] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/mycontext'
+16-Sep-2016 17:47:57.743 INFO [http-nio-8080-exec-89] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/mycontext.war
+16-Sep-2016 20:27:39.704 INFO [http-nio-8080-exec-95] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 20:27:55.042 INFO [http-nio-8080-exec-96] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/mycontext'
+16-Sep-2016 20:27:55.046 INFO [http-nio-8080-exec-96] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/mycontext.war
+16-Sep-2016 20:31:15.411 INFO [http-nio-8080-exec-103] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 20:31:30.808 INFO [http-nio-8080-exec-101] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/mycontext'
+16-Sep-2016 20:31:30.809 INFO [http-nio-8080-exec-101] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/mycontext.war
+16-Sep-2016 20:34:31.288 INFO [http-nio-8080-exec-106] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 20:34:36.012 INFO [http-nio-8080-exec-109] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/mycontext'
+16-Sep-2016 20:34:36.012 INFO [http-nio-8080-exec-109] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/mycontext.war
+16-Sep-2016 20:36:02.806 INFO [http-nio-8080-exec-114] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 20:36:07.587 INFO [http-nio-8080-exec-118] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/mycontext'
+16-Sep-2016 20:36:07.587 INFO [http-nio-8080-exec-118] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/mycontext.war
+16-Sep-2016 20:36:39.229 INFO [http-nio-8080-exec-116] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 20:36:43.822 INFO [http-nio-8080-exec-124] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/mycontext'
+16-Sep-2016 20:36:43.822 INFO [http-nio-8080-exec-124] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/mycontext.war
+16-Sep-2016 20:44:28.174 INFO [http-nio-8080-exec-127] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 20:44:34.060 INFO [http-nio-8080-exec-131] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/mycontext'
+16-Sep-2016 20:44:34.060 INFO [http-nio-8080-exec-131] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/mycontext.war
+16-Sep-2016 20:45:04.584 INFO [http-nio-8080-exec-128] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 20:45:08.965 INFO [http-nio-8080-exec-136] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/mycontext'
+16-Sep-2016 20:45:08.966 INFO [http-nio-8080-exec-136] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/mycontext.war
+16-Sep-2016 20:48:49.772 INFO [http-nio-8080-exec-143] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 20:49:00.031 INFO [http-nio-8080-exec-141] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/mycontext'
+16-Sep-2016 20:49:00.031 INFO [http-nio-8080-exec-141] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/mycontext.war
+16-Sep-2016 20:55:16.146 INFO [http-nio-8080-exec-152] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 20:55:28.330 INFO [http-nio-8080-exec-160] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/mycontext'
+16-Sep-2016 20:55:28.331 INFO [http-nio-8080-exec-160] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/mycontext.war
+16-Sep-2016 20:56:02.323 INFO [http-nio-8080-exec-154] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 20:56:28.562 INFO [http-nio-8080-exec-166] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/mycontext'
+16-Sep-2016 20:56:28.562 INFO [http-nio-8080-exec-166] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/mycontext.war
+16-Sep-2016 21:17:21.820 INFO [http-nio-8080-exec-174] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 21:18:11.308 INFO [http-nio-8080-exec-171] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 21:20:45.693 INFO [http-nio-8080-exec-180] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 21:22:40.643 INFO [http-nio-8080-exec-182] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 21:23:10.656 INFO [http-nio-8080-exec-178] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 21:24:29.072 INFO [http-nio-8080-exec-184] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 21:26:52.518 INFO [http-nio-8080-exec-186] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 21:27:41.076 INFO [http-nio-8080-exec-183] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 21:28:58.978 INFO [http-nio-8080-exec-179] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 21:29:39.976 INFO [http-nio-8080-exec-184] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 21:29:51.008 INFO [http-nio-8080-exec-181] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 21:29:57.553 INFO [http-nio-8080-exec-186] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/mycontext'
+16-Sep-2016 21:29:57.561 INFO [http-nio-8080-exec-186] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/mycontext.war
+16-Sep-2016 21:31:40.468 INFO [http-nio-8080-exec-187] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 21:31:45.221 INFO [http-nio-8080-exec-186] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/mycontext'
+16-Sep-2016 21:31:45.223 INFO [http-nio-8080-exec-186] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/mycontext.war
+16-Sep-2016 21:43:02.902 INFO [http-nio-8080-exec-188] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 21:44:03.683 INFO [http-nio-8080-exec-190] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 21:44:10.142 INFO [http-nio-8080-exec-199] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/mycontext'
+16-Sep-2016 21:44:10.144 INFO [http-nio-8080-exec-199] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/mycontext.war
+16-Sep-2016 22:29:25.528 INFO [http-nio-8080-exec-201] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 22:40:15.569 INFO [http-nio-8080-exec-208] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 22:40:28.332 INFO [http-nio-8080-exec-210] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 22:41:01.908 INFO [http-nio-8080-exec-212] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 22:41:07.779 INFO [http-nio-8080-exec-214] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/mycontext'
+16-Sep-2016 22:41:07.785 INFO [http-nio-8080-exec-214] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/mycontext.war
+16-Sep-2016 22:50:16.028 INFO [http-nio-8080-exec-210] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 22:52:44.798 INFO [http-nio-8080-exec-218] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 22:54:51.452 INFO [http-nio-8080-exec-220] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 22:58:55.738 INFO [http-nio-8080-exec-218] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 23:01:06.628 INFO [http-nio-8080-exec-222] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 23:02:16.755 INFO [http-nio-8080-exec-220] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 23:04:35.892 INFO [http-nio-8080-exec-224] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 23:07:25.165 INFO [http-nio-8080-exec-226] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 23:16:31.949 INFO [http-nio-8080-exec-218] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 23:16:45.838 INFO [http-nio-8080-exec-222] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/mycontext'
+16-Sep-2016 23:16:45.839 INFO [http-nio-8080-exec-222] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/mycontext.war
+16-Sep-2016 23:19:54.402 INFO [http-nio-8080-exec-218] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 23:21:08.607 INFO [http-nio-8080-exec-228] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 23:24:36.735 INFO [http-nio-8080-exec-230] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 23:25:40.032 INFO [http-nio-8080-exec-229] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 23:26:48.935 INFO [http-nio-8080-exec-232] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 23:26:53.770 INFO [http-nio-8080-exec-230] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/mycontext'
+16-Sep-2016 23:26:53.777 INFO [http-nio-8080-exec-230] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/mycontext.war
+16-Sep-2016 23:29:35.743 INFO [http-nio-8080-exec-231] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 23:29:41.020 INFO [http-nio-8080-exec-228] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/mycontext'
+16-Sep-2016 23:29:41.020 INFO [http-nio-8080-exec-228] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/mycontext.war
+16-Sep-2016 23:30:56.673 INFO [http-nio-8080-exec-240] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 23:31:08.133 INFO [http-nio-8080-exec-230] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/mycontext'
+16-Sep-2016 23:31:08.134 INFO [http-nio-8080-exec-230] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/mycontext.war
+16-Sep-2016 23:34:31.740 INFO [http-nio-8080-exec-244] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 23:34:35.919 INFO [http-nio-8080-exec-246] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/mycontext'
+16-Sep-2016 23:34:35.919 INFO [http-nio-8080-exec-246] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/mycontext.war
+16-Sep-2016 23:35:32.091 INFO [http-nio-8080-exec-253] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mycontext'
+16-Sep-2016 23:35:38.349 INFO [http-nio-8080-exec-257] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/mycontext'
+16-Sep-2016 23:35:38.349 INFO [http-nio-8080-exec-257] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/mycontext.war

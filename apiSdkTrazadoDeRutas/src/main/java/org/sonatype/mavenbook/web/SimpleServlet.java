@@ -1,0 +1,17 @@
+package org.sonatype.mavenbook.web;
+
+import java.io.*;
+import javax.servlet.*;
+import javax.servlet.http.*;
+
+public class SimpleServlet extends HttpServlet {
+    public void doGet(HttpServletRequest request,
+                      HttpServletResponse response)
+        throws ServletException, IOException {
+
+        request.setAttribute("result",App.getJson() );
+        request.getRequestDispatcher("/index.jsp").forward(request, response);
+        
+  
+    }
+}

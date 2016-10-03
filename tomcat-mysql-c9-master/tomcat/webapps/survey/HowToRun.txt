@@ -1,0 +1,74 @@
+       How to Run Lixin's Student Survey JSP/Servlet Web Project
+                           Dr. Lixin Tao
+                          Pace University
+                           July 30, 2008
+
+Assume that 
+  a. You have installed your Tomcat in "C:\tomcat6" and 
+     your Tomcat uses HTTP port 8090.
+  b. You have installed MySQL, put its BIN folder on your OS PATH,
+     and your MySQL root password is "123456".
+Otherwise you need to adjust the following instructions accordingly.
+  
+1. Copy file "survey.war" under your Tomcat's folder "webapps".
+2. If Tomcat is not started yet, start your Tomcat service.
+   A new project folder "survey" will be automatically created 
+   under "...\webapps".
+3. Open a Command Prompt window in "C:\tomcat6\webapps\survey".
+   Run the following commands to create your survey database table 
+   (you type text to the right of >): 
+    survey> mysql  -uroot -p123456
+    mysql> use test;
+    mysql> source survey.sql;
+    mysql> quit;
+4. Start an IE window and visit "http://localhost:8090/survey/"
+ 
+By default this project uses JSP pages for data submission, and servlets 
+for data processing. The project deployment descriptor for this mixed use
+of JSP and servlets is file "...\webapps\survey\WEB-INF\web.xml.servletJsp".
+You can also run this project using JSP pages only. To do so you need to use
+the contents of the JSP version project deployment descriptor 
+"...\webapps\survey\WEB-INF\web.xml.jsp" to replace the contents of
+ "...\webapps\survey\WEB-INF\web.xml";
+the latter "web.xml" is the actual project deployment descriptor in use.
+
+If your MySQL password is not "123456", you need to edit Java source code file
+"...\survey\WEB-INF\classes\survey\DatabaseAccess.java", and recompile it.
+
+If you change the contents of "web.xml" or Java files, 
+you have to restart your Tomcat to have the changes to be in effect.
+
+You are encouraged to compare the differences in JSP and servlet implementations of
+the same functions. Not all files in this project folder are used at the same time.
+
+----------------------------------------------------------------------
+ 
+        Suggested steps for develop a similar survey JSP project "studentSurvey"
+
+1. Make a copy of folder "survey" in "webapps", and rename it as, say, "studentSurvey".
+2. Choose your data to be collected, and design a graphic user interface with the basic 
+   HTML form controls including text fields, combo boxes, text areas, and radio buttons. 
+3. Revise the SQL statements in file "studentSurvey\survey.sql" for creating a database 
+   table named "studentSurvey" for the data that you have chosen to be collected.
+4. Open a Command Prompt window in "C:\tomcat6\webapps\studentSurvey", and run the 
+   following commands to create your database table "studentSurvey" (you type text to 
+   the right of  >): 
+
+      > mysql  -uroot  –p123456
+      mysql> use  test;
+      mysql> source  survey.sql;
+      mysql> quit;
+
+5. In VM folder "studentSurvey\WEB-INF\classes\survey", revise file "Survey.java" so it 
+   will have variables for the data fields of your choice and methods for saving and 
+   retrieving these data into/from your database table studentSurvey.  You don’t need to 
+   revise other Java files in this folder.
+6. To compile the revised Java file, open a Command Prompt window and set its working 
+   folder to be "studentSurvey\WEB-INF\classes". Type command "javac  survey/Survey.java". 
+   Resolve any problems by revising the Java source file "Survey.java". Make sure that a 
+   new file "WEB-INF\classes\survey\Survey.class" is created.
+7. Use the JSP files in "studentSurvey" for reference, and revise them to implement your 
+   project.
+8. Make sure that the contents of file "WEB-INF\web.xml" is a copy of the contents of file
+   "WEB-INF\web.xml.jsp", and then revise file "WEB-INF\web.xml" to support your project.
+

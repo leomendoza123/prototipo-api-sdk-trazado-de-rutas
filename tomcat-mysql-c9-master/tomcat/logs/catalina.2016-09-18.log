@@ -1,0 +1,44 @@
+18-Sep-2016 17:45:37.380 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.0.28
+18-Sep-2016 17:45:37.385 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 7 2015 18:25:21 UTC
+18-Sep-2016 17:45:37.385 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.0.28.0
+18-Sep-2016 17:45:37.385 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+18-Sep-2016 17:45:37.386 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            4.2.0-c9
+18-Sep-2016 17:45:37.386 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+18-Sep-2016 17:45:37.386 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-7-openjdk-amd64/jre
+18-Sep-2016 17:45:37.387 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.7.0_111-b01
+18-Sep-2016 17:45:37.387 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+18-Sep-2016 17:45:37.387 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat
+18-Sep-2016 17:45:37.387 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat
+18-Sep-2016 17:45:37.388 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/conf/logging.properties
+18-Sep-2016 17:45:37.388 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Sep-2016 17:45:37.388 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=/home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/endorsed
+18-Sep-2016 17:45:37.389 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat
+18-Sep-2016 17:45:37.389 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat
+18-Sep-2016 17:45:37.389 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/temp
+18-Sep-2016 17:45:37.389 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: ~/.c9/local/lib:/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+18-Sep-2016 17:45:37.837 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+18-Sep-2016 17:45:37.906 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+18-Sep-2016 17:45:37.913 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+18-Sep-2016 17:45:37.926 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+18-Sep-2016 17:45:37.929 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1862 ms
+18-Sep-2016 17:45:37.993 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+18-Sep-2016 17:45:37.993 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.28
+18-Sep-2016 17:45:38.151 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/mycontext.war
+18-Sep-2016 17:45:41.422 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Sep-2016 17:45:41.729 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/mycontext.war has finished in 3,575 ms
+18-Sep-2016 17:45:41.733 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/survey.war
+18-Sep-2016 17:45:42.113 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Sep-2016 17:45:42.200 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/survey.war has finished in 466 ms
+18-Sep-2016 17:45:42.202 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/manager
+18-Sep-2016 17:45:42.318 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/manager has finished in 117 ms
+18-Sep-2016 17:45:42.318 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/examples
+18-Sep-2016 17:45:43.381 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/examples has finished in 1,063 ms
+18-Sep-2016 17:45:43.412 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/host-manager
+18-Sep-2016 17:45:43.472 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/host-manager has finished in 60 ms
+18-Sep-2016 17:45:43.472 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/ROOT
+18-Sep-2016 17:45:43.521 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/ROOT has finished in 49 ms
+18-Sep-2016 17:45:43.522 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/docs
+18-Sep-2016 17:45:43.615 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /home/ubuntu/workspace/tomcat-mysql-c9-master/tomcat/webapps/docs has finished in 93 ms
+18-Sep-2016 17:45:43.637 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+18-Sep-2016 17:45:43.649 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+18-Sep-2016 17:45:43.656 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 5726 ms
