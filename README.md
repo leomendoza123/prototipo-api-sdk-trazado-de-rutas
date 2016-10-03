@@ -1,18 +1,18 @@
+Este es un prototipo en desarrollo.
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+Ver más información sobre las tecnologias siendo utilizadas en: 
 
 
-Hi there! Welcome to Cloud9 IDE!
+Jaxrs and Jersey - for api client
 
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
+https://drive.google.com/open?id=0B569OJeOrFAyM0hqaDNQdlRRWlE
 
-Happy coding!
-The Cloud9 IDE team
+Java EE - Cloud 9
+
+https://drive.google.com/open?id=0B569OJeOrFAyQkFmMy1SSHVITlk
+
+Creating a serverlet, using JSTL
+
+https://docs.google.com/document/d/16gPyOOpR2FM4FseoosAlO_GxS0LZSf2gsje2fDFBdr4/edit?usp=sharing
+
+
